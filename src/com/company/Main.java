@@ -32,4 +32,8 @@ public class Main {
             return neg;
         }
     }
+
+    public static int getAge() {
+        return 0;
+    }
 }
